@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "디럭스",
+    "category": "Forest Sun Ocean",
+    "summary": "여유로운 크기로 구성된 디럭스 룸에서 휴가, 비즈니스 등 다양한 목적의 여행을 완성해 보세요. 숲과 태양, 바다의 이미지를 각각 머금고 있는 3개의 호텔 타워에서 평온하고 즐거운 쉼을 누릴 수 있습니다.",
+    "thumbnail": "/img/stay/main/forestDeluxe.jpg",
+    "link": "/stay/forest/deluxe"
+  },
+  {
+    "id": 2,
+    "title": "스위트",
+    "category": "Forest Sun Ocean",
+    "summary": "별도의 침실과 거실로 구성되어 있어 독립적인 공간 활용이 가능한 럭셔리한 분위기의 스위트에서 낭만적인 휴가를 즐기세요.",
+    "thumbnail": "/img/stay/main/forestSuite.jpg",
+    "link": "/stay/forest/suite"
+  },
+  {
+    "id": 3,
+    "title": "빌라",
+    "category": "Villa",
+    "summary": "지상 최고의 낙원. 궁극의 럭셔리로 둘러싸인 빌라는 인스파이어 호텔 내 가장 넓은 규모의 독채로, 24시간 버틀러 서비스와 독립된 형태의 넓은 발코니 및 프라이빗 풀장, 자쿠지 등 다양한 공간을 통해 완벽한 시간을 선사합니다. ",
+    "thumbnail": "/img/stay/main/villa.jpg",
+    "link": "/stay/villa"
+  }
+]

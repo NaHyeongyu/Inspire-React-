@@ -1,0 +1,373 @@
+[
+  {
+    "id": "1",
+    "name": "선 타워 디럭스 킹",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 286000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation1.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "선 타워 비즈니스 디럭스 더블 퀸 [제한된 전망]",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation2.jpg",
+    "status": true,
+    "details": [
+      "퀸베드 2개 · 제한된 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "선 타워 선 스위트",
+    "roomSize": "객실 크기  88㎡",
+    "pricePerNight": 616000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation3.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 불가리",
+      "65인치 UHD 스마트 TV2대",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "선 타워 인스파이어 스위트",
+    "roomSize": "객실 크기  131㎡",
+    "pricePerNight": 1386000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation4.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 호수 전망",
+      "욕실 어메니티: 불가리",
+      "65인치 UHD 스마트 TV 3대",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "오션 타워 디럭스 더블 퀸",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 319000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation5.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "오션 타워 디럭스 킹",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 286000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation6.jpg",
+    "status": true,
+
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "오션 타워 레이크 디럭스 더블 킹",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 352000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation7.jpeg",
+    "status": true,
+    "details": [
+      "킹베드 2개 · 호수 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "오션 타워 레이크 디럭스 킹",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 286000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation8.jpg",
+    "status": true,
+
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "오션 타워 어세서블 킹",
+    "roomSize": "장애인 고객용",
+    "pricePerNight": 275000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation9.jpeg",
+    "status": true,
+
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 라리코",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "오션 타워 오션 스위트",
+    "roomSize": "객실 크기  88㎡",
+    "pricePerNight": 616000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation10.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 불가리",
+      "65인치 UHD 스마트 TV2대",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "오션 타워 인스파이어 스위트",
+    "roomSize": "객실 크기  131㎡",
+    "pricePerNight": 1386000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation11.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 불가리",
+      "65인치 UHD 스마트 TV2대",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "포레스트 타워 디럭스 더블 퀸",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 319000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation12.jpg",
+    "status": true,
+    "details": [
+      "퀸베드 2개 · 일반 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "포레스트 타워 디럭스 킹",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 286000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation13.jpg",
+    "status": true,
+
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "포레스트 타워 레이크 디럭스 더블 퀸",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 352000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation14.jpg",
+    "status": true,
+    "details": [
+      "퀸베드 2개 · 호수 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "포레스트 타워 레이크 디럭스 킹",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 319000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation15.jpg",
+    "status": true,
+
+    "details": [
+      "킹베드 1개 · 호수 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "포레스트 타워 비즈니스 디럭스 더블 퀸 [제한된 전망]",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation16.jpg",
+    "status": true,
+
+    "details": [
+      "퀸베드 2개 · 제한된 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "포레스트 타워 비즈니스 디럭스 킹 [제한된 전망]",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 275000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation17.jpg",
+    "status": true,
+    "details": [
+      "킹베드 1개 · 제한된 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "포레스트 타워 패밀리 더블 퀸",
+    "roomSize": "객실 크기  55㎡",
+    "pricePerNight": 396000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation18.jpg",
+    "status": true,
+    "details": [
+      "퀸베드 2개 · 제한된 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "포레스트 타워 어세서블 킹",
+    "roomSize": "장애인 고객용",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation19.jpeg",
+    "status": false,
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 산타 마리아 노벨라",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "포레스트 타워 포레스트 스위트",
+    "roomSize": "객실 크기  80㎡",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation20.jpg",
+    "status": false,
+
+    "details": [
+      "킹베드 1개 · 호수 전망",
+      "욕실 어메니티: 불가리",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "선 타워 어세서블 킹",
+    "roomSize": "장애인 고객용",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation21.jpg",
+    "status": false,
+
+    "details": [
+      "킹베드 1개 · 일반 전망",
+      "욕실 어메니티: 라리끄",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "선 타워 비즈니스 디럭스 킹 [제한된 전망]",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation22.jpg",
+    "status": false,
+
+    "details": [
+      "킹베드 1개 · 제한된 전망",
+      "욕실 어메니티: 라리끄",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "선 타워 디럭스 더블 퀸",
+    "roomSize": "객실 크기  44㎡",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation23.jpg",
+    "status": false,
+
+    "details": [
+      "퀸베드 2개 · 일반 전망",
+      "욕실 어메니티: 라리끄",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "선 타워 스튜디오 스위트",
+    "roomSize": "객실 크기  68㎡",
+    "pricePerNight": 308000,
+    "maxGuests": 3,
+    "imageUrl": "/img/reservation/reservation24.jpeg",
+    "status": false,
+
+    "details": [
+      "킹베드 1개 · 제한된 전망",
+      "욕실 어메니티: 불가리",
+      "65인치 UHD 스마트 TV",
+      "기준 성인 2인 (12세 이하 소아/영유아 2인 동반 투숙 가능)/최대 성인 3인"
+    ]
+  }
+]

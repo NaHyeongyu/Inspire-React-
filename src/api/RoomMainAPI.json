@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "포레스트 타워",
+    "summary": "포레스트 타워(Forest Tower)는 숨 막힐 듯 복잡한 도심에서 벗어나 생기 넘치는 자연을 느낄 수 있는 포근한 안식처입니다. ​숲의 다양한 색채가 펼쳐지는 이곳에서 평온하면서도 에너지 가득한 시간을 즐겨보세요.",
+    "rooms": [
+      {
+        "type": "포레스트 타워 디럭스",
+        "slug": "forest-deluxe",
+        "titleDetail": "44-51m의 여유로은 크기로 구성된 포레스트 타워의 디럭스 룸은 3가지의 객실 타입을 갖추고 있습니다.",
+        "thumbnail": "/img/stay/main/forestDeluxe.jpg"
+      },
+      {
+        "type": "포레스트 타워 스위트",
+        "slug": "forest-suite",
+        "titleDetail": "80m 넓이로 이루어진 포레스트 타워의 스위트는 포레스트 타워애서 가장 큰 규모의 객실입니다.",
+        "thumbnail": "/img/stay/main/forestSuite.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "선 타워",
+    "summary": "카지노 건물에 위치한 선 타워(Sun Tower)는 태양의 밝고 무한한 에너지에서 영감을 받은 공간입니다. 붉은색을 메인으로 다양한 빛깔과 함께 행운을 가득 머금은 객실에서 여유로운 시간을 보내며 몸과 마음을 재충전해 보세요.",
+    "rooms": [
+      {
+        "type": "선 타워 디럭스",
+        "slug": "sun-deluxe",
+        "titleDetail": "44-50㎡의 여유로운 크기와 2가지 객실 타입을 갖춘 선 타워의 디럭스 룸을 만나보세요.",
+        "thumbnail": "/img/stay/main/sunDeluxe.jpg"
+      },
+      {
+        "type": "선 타워 스위트",
+        "slug": "sun-suite",
+        "titleDetail": "선 타워의 스위트는 68-131㎡ 의 넓이로, 3가지의 객실 타입을 갖추고 있어 고객의 취향과 목적에 맞는 다양한 선택지를 제공합니다.",
+        "thumbnail": "/img/stay/main/sunSuite.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "오션 타워",
+    "summary": "연회시설과 바로 연결된 오션 타워(Ocean Tower)는 블루 컬러를 바탕으로 푸르른 바다의 청량함을 느낄 수 있는 공간입니다. ​기능성과 스타일을 갖춘 모던한 인테리어 속에서 일과 휴식의 경계를 자유로이 넘나들며 편안한 시간을 누리세요.",
+    "rooms": [
+      {
+        "type": "오션 타워 디럭스",
+        "slug": "ocean-deluxe",
+        "titleDetail": "오션 타워의 디럭스 룸은 44-58㎡의 여유로운 크기로, 고객의 취향에 따라 자유롭게 선택할 수 있는 2가지의 객실 타입이 마련되어 있습니다.",
+        "thumbnail": "/img/stay/main/oceanDeluxe.jpg"
+      },
+      {
+        "type": "오션 타워 스위트",
+        "slug": "ocean-suite",
+        "titleDetail": "88-131㎡에 이르는 넓은 공간을 갖춘 오션 타워의 스위트는 2가지의 타입으로 이루어져 있습니다.",
+        "thumbnail": "/img/stay/main/oceanSuite.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "빌라",
+    "summary": "지상 최고의 낙원. 빌라(Villa)는 프라이버시가 완벽하게 보장되는 환경 속에서 럭셔리 호텔의 우아한 품격을 즐길 수 있는 ​인스파이어 호텔의 최상위급 공간입니다. 넓은 발코니와 프라이빗 풀 및 자쿠지, 그리고 24시간 버틀러 서비스를 제공하는 빌라에서 궁극의 럭셔리로 둘러싸인 완벽한 여행을 즐겨보세요.",
+    "rooms": [
+      {
+        "type": "빌라",
+        "slug": "villa",
+        "titleDetail": "궁극의 럭셔리로 둘러싸인 빌라(Villa)는 무한한 영감이 샘솟는 인스파이어의 최상위급 독립 공간입니다.​ 인스파이어 호텔 내 가장 넓은 규모의 독채로, 예술적인 감성이 깃든 고급스러운 공간과 최상의 서비스를 제공합니다.",
+        "thumbnail": "/img/stay/main/villa.jpg"
+      }
+    ]
+  }
+]
