@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Inspire-React-/static/css/main.4a0c109d.css",
+    "main.js": "/Inspire-React-/static/js/main.f451aab4.js",
+    "index.html": "/Inspire-React-/index.html",
+    "main.4a0c109d.css.map": "/Inspire-React-/static/css/main.4a0c109d.css.map",
+    "main.f451aab4.js.map": "/Inspire-React-/static/js/main.f451aab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0c109d.css",
+    "static/js/main.f451aab4.js"
+  ]
+}
