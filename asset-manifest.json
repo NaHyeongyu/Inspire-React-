@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Inspire-React-/static/css/main.4a0c109d.css",
-    "main.js": "/Inspire-React-/static/js/main.302cfe36.js",
+    "main.js": "/Inspire-React-/static/js/main.c715b4ef.js",
     "index.html": "/Inspire-React-/index.html",
     "main.4a0c109d.css.map": "/Inspire-React-/static/css/main.4a0c109d.css.map",
-    "main.302cfe36.js.map": "/Inspire-React-/static/js/main.302cfe36.js.map"
+    "main.c715b4ef.js.map": "/Inspire-React-/static/js/main.c715b4ef.js.map"
   },
   "entrypoints": [
     "static/css/main.4a0c109d.css",
-    "static/js/main.302cfe36.js"
+    "static/js/main.c715b4ef.js"
   ]
 }
